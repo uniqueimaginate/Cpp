@@ -1,4 +1,4 @@
-# This is a repository which i record my c++ study
+# This is a repository where i record my c++ study
 #### Donguk Lee 
 #### uniqueimaginate@gmail.com
 
