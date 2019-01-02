@@ -1,0 +1,76 @@
+﻿  Chapter4_8.cpp
+c:\users\uniqu\desktop\c\visual studio\chapter4\chapter4_8\chapter4_8.cpp(22): error C2678: binary '==': no operator found which takes a left-hand operand of type 'main::Color' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(284): note: could be 'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(278): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(272): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(266): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\exception(331): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\exception(326): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\exception(321): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) noexcept'
+  c:\users\uniqu\desktop\c\visual studio\chapter4\chapter4_8\chapter4_8.cpp(22): note: while trying to match the argument list '(main::Color, main::Fruit)'
+
+Project Performance Summary:
+     1090 ms  C:\Users\uniqu\Desktop\C\Visual Studio\Chapter4\Chapter4_8\Chapter4_8.vcxproj   1 calls
+               1090 ms  Build                                      1 calls
+
+Target Performance Summary:
+        0 ms  ResolveReferences                          1 calls
+        0 ms  ResolveAssemblyReferences                  1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  SelectClCompile                            1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  PreBuildEvent                              1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  MakeDirsForMidl                            1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  _BuildGenerateSourcesAction                1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  SetCABuildNativeEnvironmentVariables       1 calls
+        0 ms  WarnCompileDuplicatedFilename              1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  ComputeCLInputPDBName                      1 calls
+        0 ms  PrepareProjectReferences                   1 calls
+        0 ms  GetResolvedWinMD                           1 calls
+        0 ms  _CheckWindowsSDKInstalled                  1 calls
+        0 ms  GetReferenceAssemblyPaths                  1 calls
+        1 ms  ResolveSDKReferences                       1 calls
+        1 ms  SetBuildDefaultEnvironmentVariables        1 calls
+        1 ms  ComputeReferenceCLInput                    1 calls
+        1 ms  AssignProjectConfiguration                 1 calls
+        1 ms  PlatformPrepareForBuild                    1 calls
+        1 ms  _PrepareForReferenceResolution             1 calls
+        1 ms  FixupCLCompileOptions                      1 calls
+        1 ms  _PrepareForBuild                           1 calls
+        1 ms  MakeDirsForCl                              1 calls
+        1 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+        1 ms  GetFrameworkPaths                          1 calls
+        7 ms  CopyFileToFolders                          1 calls
+        9 ms  SetTelemetryEnvironmentVariables           1 calls
+       12 ms  PrepareForBuild                            1 calls
+       13 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+       15 ms  InitializeBuildStatus                      1 calls
+       42 ms  ResolveProjectReferences                   1 calls
+      977 ms  ClCompile                                  1 calls
+
+Task Performance Summary:
+        0 ms  MSBuild                                    1 calls
+        1 ms  SetEnv                                     8 calls
+        1 ms  AssignProjectConfiguration                 1 calls
+        1 ms  MakeDir                                    4 calls
+        2 ms  Message                                    2 calls
+        4 ms  WriteLinesToFile                           1 calls
+        5 ms  Touch                                      1 calls
+        6 ms  ReadLinesFromFile                          1 calls
+        7 ms  GetOutOfDateItems                          1 calls
+      976 ms  CL                                         1 calls
