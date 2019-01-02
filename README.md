@@ -40,3 +40,17 @@
 3.8 bitwise operator
 3.9 bitflags, bitmasks
 ```
+
+## 2019.1.2 Chapter 4. Variable scope & other variables
+```
+4.1 local variable, scope, duration
+4.2 global variable
+4.3 using & ambiguity
+4.4 auto keyword & type inference
+4.5 type conversion
+4.6 std string
+4.7 enumberated types
+4.8 scoped enumerations
+4.9 type aliases
+4.10 struct
+```
