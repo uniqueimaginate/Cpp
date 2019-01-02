@@ -29,7 +29,7 @@
 ```
 
 ## 2019.1.2 Chapter 3. Operators
-'''
+```
 3.1 precedence and associativity
 3.2 arithmetic operators
 3.3	increment, decrement operators
@@ -39,4 +39,4 @@
 3.7 binary numbers
 3.8 bitwise operator
 3.9 bitflags, bitmasks
-'''
+```
