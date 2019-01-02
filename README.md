@@ -1,6 +1,5 @@
 # This is a repository where i record my c++ study
-#### Donguk Lee 
-#### uniqueimaginate@gmail.com
+#### Donguk Lee (uniqueimaginate@gmail.com)
 
 ## 2019.1.1 Chapter 1. C++ Basic
 ```
@@ -28,3 +27,16 @@
 2.8 literal constants
 2.9 symbolic constants
 ```
+
+## 2019.1.2 Chapter 3. Operators
+'''
+3.1 precedence and associativity
+3.2 arithmetic operators
+3.3	increment, decrement operators
+3.4 sizeof, comma operator, conditional operator
+3.5 relational operator
+3.6 logical operator
+3.7 binary numbers
+3.8 bitwise operator
+3.9 bitflags, bitmasks
+'''
