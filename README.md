@@ -54,3 +54,43 @@
 4.9 type aliases
 4.10 struct
 ```
+
+## 2019.1.3 Chapter 5. Control flow
+```
+5.1 control flow outline
+5.2 if
+5.3 switch-case
+5.4 goto
+5.5 while
+5.6 do-while
+5.7 for
+5.8 break, continue
+5.9 random numbers
+5.10 std::cin
+```
+
+## 2019.1.3 Chapter 6. Array, string, pointer, reference
+```
+6.1 array - 1
+6.2 array - 2
+6.3 array & iteration
+6.4 array & selection sort
+6.5 static multidimensional array
+6.6 C style string
+6.7 basic usage of pointer
+6.7a basic usage of null pointer
+6.8 pointer & static array
+6.9 pointer & array indexing
+6.10 C style string symbolic constant
+6.11 memory dynamic allocaton (new & delete)
+6.12 dynamically allocating arrays
+6.13 pointer & constant
+6.14 reference variable
+6.15 reference & constant
+6.16 pointer & member selection operators of reference
+6.17 C+11 for-each iteration
+6.18 void pointer
+6.19 double pointer & dynamic multidimensional arrray
+6.20 std:array
+6.21 std:vector
+```
