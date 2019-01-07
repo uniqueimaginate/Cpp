@@ -38,16 +38,16 @@ int main()
 	//cout << ptr << endl;
 	//cout << &ptr << endl;
 
-	/*int n = 5;
+	int n = 5;
 	cout << n << endl;
 
 	cout << &n << endl;
 
 	doSomething(n);
 
-	cout << n << endl;*/
+	cout << n << endl;
 
-	Other ot;
+	/*Other ot;
 	int &v1 = ot.st.v1;
 	v1 = 1;
 
@@ -56,7 +56,7 @@ int main()
 	int &ref = value;
 
 	*ptr = 10;
-	ref = 10;
+	ref = 10;*/
 
 	return 0;
 }
