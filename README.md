@@ -3,11 +3,11 @@
 
 ## 2019.1.1 Chapter 1. C++ Basic
 ```
-1.4		cin, cout
-1.5		function
-1.6		keyword, identifier
-1.8		operator
-1.9		syntax
+1.4	cin, cout
+1.5	function
+1.6	keyword, identifier
+1.8	operator
+1.9	syntax
 1.10	declaration, definition
 1.11	header
 1.12	header guard
@@ -32,7 +32,7 @@
 ```
 3.1 	precedence and associativity
 3.2 	arithmetic operators
-3.3		increment, decrement operators
+3.3	increment, decrement operators
 3.4 	sizeof, comma operator, conditional operator
 3.5 	relational operator
 3.6 	logical operator
@@ -97,15 +97,15 @@
 
 ## 2019.1.7 Chapter 7. Function
 ```
-7.1 	parameters & actual parameters
-7.2 	call by value
-7.3		call by reference
-7.4		call by address
-7.5		various return value
-7.6		inline function
-7.7		function overloading
-7.8		default parameter
-7.9		function pointer
+7.1		parameters & actual parameters
+7.2	call by value
+7.3	call by reference
+7.4	call by address
+7.5	various return value
+7.6	inline function
+7.7	function overloading
+7.8	default parameter
+7.9	function pointer
 7.10 	the stack and the heap
 7.11 	use std vector as stack
 7.12 	recursive function call
