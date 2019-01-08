@@ -114,7 +114,7 @@
 7.15 	command line arguments
 ```
 
-## 2019.1.7 Chapter 8. Objective-oriented programming
+## 2019.1.8 Chapter 8. Objective-oriented programming
 ```
 8.1 	objective-oriented programming & class
 8.2 	encapsulation, access specifiers, access functions
