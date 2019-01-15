@@ -97,7 +97,7 @@
 
 ## 2019.1.7 Chapter 7. Function
 ```
-7.1		parameters & actual parameters
+7.1	parameters & actual parameters
 7.2	call by value
 7.3	call by reference
 7.4	call by address
@@ -116,7 +116,7 @@
 
 ## 2019.1.8 Chapter 8. Objective-oriented programming
 ```
-8.1 	objective-oriented programming & class
+8.1		objective-oriented programming & class
 8.2 	encapsulation, access specifiers, access functions
 8.3 	constructions
 8.4 	member initializer list
@@ -131,4 +131,43 @@
 8.13	anonymous class
 8.14	nested types
 8.15	checking execution time
+```
+
+## 2019.1.9 Chapter 9. Operator overloading
+```
+9.1	arithmetic operators overloading
+9.2	input & output operators overloading
+9.3	unary operators overloading
+9.4	comparison operators overloading
+9.5	increment & decrement operators overloading
+9.6	subscript operator overloading
+9.7	parenthesis operator & function object
+9.8	static_cast overloading
+9.9	copy constructor, return value optimization
+9.10	converting constructor, explicit, delete
+9.11	assignment operator overloading, deep copy, shallow copy
+9.12	initializer list
+```
+
+## 2019.1.9 Chapter 10. Relations between objects
+```
+10.1	relations between objects
+10.2	composition
+10.3	aggregation
+10.4	association
+10.5	dependencies
+10.6	container class
+```
+
+## 2019.1.16 Chapter 11. Inheritance (is-a relationship)
+```
+11.1	basic of inheritance(1)
+11.2	basic of inheritance(2)
+11.3	order of creation of derived class
+11.4	initialization of derived class
+11.5	inheritance & access modifier
+11.6	add new functions to derived class
+11.7	override inherited function
+11.8	hide inherited function
+11.9	multi-inheritance
 ```
