@@ -171,3 +171,18 @@
 11.8	hide inherited function
 11.9	multi-inheritance
 ```
+
+## 2019.1.17 Chapter 12. Virtual functions
+```
+12.1	fundamental of polymorphism
+12.2	virtual functions & polymorphism
+12.3	override, final, covariant return types
+12.4	virtual distructor
+12.5	dynamic binding & static binding
+12.6	virtual tables
+12.7	pure virtual function, abstract class, interface class
+12.8	virtual class & the diamond problem
+12.9	object slicing & reference_wrapper
+12.10	dynamic casting
+12.11	use print operator in derived class
+```
